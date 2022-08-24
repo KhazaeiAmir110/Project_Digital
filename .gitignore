@@ -3,3 +3,5 @@
 *.pyc
 media/
 .gitignore
+db.sqlite3
+products/migrations
